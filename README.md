@@ -1,6 +1,6 @@
 # APA
 
-#Algogoritmos de ordenação\n
+#Algogoritmos de ordenação
 #HeapSort
 #QuickSort
 #InsertionSort
