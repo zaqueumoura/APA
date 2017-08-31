@@ -1,8 +1,8 @@
 # APA
 
-#Algogoritmos de ordenação
-##HeapSort
-##QuickSort
-##InsertionSort
-##SelectionSort
-##Mergesort
+#Algogoritmos de ordenação\n
+#HeapSort
+#QuickSort
+#InsertionSort
+#SelectionSort
+#Mergesort
